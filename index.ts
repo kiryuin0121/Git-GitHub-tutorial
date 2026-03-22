@@ -1,1 +1,4 @@
-console.log("Hello Git/GitHub");
+const greet = ()=>{
+  console.log("Hello Git/GitHub");
+}
+greet();
